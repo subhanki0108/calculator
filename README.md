@@ -30,17 +30,6 @@ The calculator window should open immediately.
 
 ---
 
-## 📁 Project Structure
-
-```bash
-calculator/
-├── LICENSE            # MIT License file
-├── calculator.py      # Main Tkinter GUI app
-└── README.md          # Project documentation
-```
-
----
-
 ## 🧩 Tech Stack
 
 - Language: Python
